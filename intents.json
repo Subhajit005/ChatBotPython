@@ -1,0 +1,13 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns_posi": [ "Hi", "How are you", "Is anyone there?", "Hello", "Good day" ],
+            "responses_posi": [ "Hello, thanks for visiting", "Good to see you again", "Hi there, how can I help?" ],
+            "patterns_neg": [ "Angry", "Dissapointed", "I am unsatisfied", "Frustrated", "Not use" ],
+            "responses_neg": [ "Sorry, for inconvinience", "We will try to fix this.", "Please be pateint with us" ]
+        }
+        
+               ] 
+}   
+        

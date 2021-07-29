@@ -1,0 +1,2 @@
+"patterns_neg": [ "Angry", "Dissapointed", "I am unsatisfied", "Frustrated", "Not use" ],
+            "responses_neg": [ "Sorry, for inconvinience", "We will try to fix this.", "Please be pateint with us." ],
